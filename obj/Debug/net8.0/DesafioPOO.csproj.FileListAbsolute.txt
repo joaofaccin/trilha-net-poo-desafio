@@ -1,0 +1,15 @@
+/home/lenioth/Documentos/trilha-net-poo-desafio/bin/Debug/net8.0/DesafioPOO
+/home/lenioth/Documentos/trilha-net-poo-desafio/bin/Debug/net8.0/DesafioPOO.deps.json
+/home/lenioth/Documentos/trilha-net-poo-desafio/bin/Debug/net8.0/DesafioPOO.runtimeconfig.json
+/home/lenioth/Documentos/trilha-net-poo-desafio/bin/Debug/net8.0/DesafioPOO.dll
+/home/lenioth/Documentos/trilha-net-poo-desafio/bin/Debug/net8.0/DesafioPOO.pdb
+/home/lenioth/Documentos/trilha-net-poo-desafio/obj/Debug/net8.0/DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+/home/lenioth/Documentos/trilha-net-poo-desafio/obj/Debug/net8.0/DesafioPOO.AssemblyInfoInputs.cache
+/home/lenioth/Documentos/trilha-net-poo-desafio/obj/Debug/net8.0/DesafioPOO.AssemblyInfo.cs
+/home/lenioth/Documentos/trilha-net-poo-desafio/obj/Debug/net8.0/DesafioPOO.csproj.CoreCompileInputs.cache
+/home/lenioth/Documentos/trilha-net-poo-desafio/obj/Debug/net8.0/DesafioPOO.sourcelink.json
+/home/lenioth/Documentos/trilha-net-poo-desafio/obj/Debug/net8.0/DesafioPOO.dll
+/home/lenioth/Documentos/trilha-net-poo-desafio/obj/Debug/net8.0/refint/DesafioPOO.dll
+/home/lenioth/Documentos/trilha-net-poo-desafio/obj/Debug/net8.0/DesafioPOO.pdb
+/home/lenioth/Documentos/trilha-net-poo-desafio/obj/Debug/net8.0/DesafioPOO.genruntimeconfig.cache
+/home/lenioth/Documentos/trilha-net-poo-desafio/obj/Debug/net8.0/ref/DesafioPOO.dll
